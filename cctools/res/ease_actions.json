@@ -1,0 +1,212 @@
+[
+  [
+    {
+      "title" : "cc.EaseBackIn",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseBackIn"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easebackin"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseBackInOut",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseBackInOut"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easebackinout"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseBackOut",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseBackOut"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easebackout"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseBounceIn",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseBounceIn"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easebouncein"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseBounceInOut",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseBounceInOut"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easebounceinout"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseBounceOut",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseBounceOut"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easebounceout"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseElasticIn",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseElasticIn"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easeelasticin"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseElasticInOut",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseElasticInOut"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easeelasticinout"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseElasticOut",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseElasticOut"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easeelasticout"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseExponentialIn",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseExponentialIn"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easeexponentialin"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseExponentialInOut",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseExponentialInOut"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easeexponentialinout"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseExponentialOut",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseExponentialOut"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "easeexponentialout"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseSineIn",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseSineIn"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "sinein"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseSineInOut",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseSineInOut"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "sineinout"
+    }
+  ],
+  [
+    {
+      "title" : "cc.EaseSineOut",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.EaseSineOut"
+    },
+    {
+      "title" : "Name",
+      "id" : "name",
+      "type" : "text",
+      "value" : "sineout"
+    }
+  ]
+]

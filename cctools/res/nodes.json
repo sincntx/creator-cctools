@@ -1,0 +1,108 @@
+[
+  [
+    {
+      "title" : "cc.LabelTTF",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.LabelTTF"
+    },
+    {
+      "title" : "Tag",
+      "id" : "tag",
+      "type" : "text",
+      "value" : "label"
+    },
+    {
+      "title" : "Text",
+      "id" : "text",
+      "type" : "text",
+      "value" : "Hello World!"
+    },
+    {
+      "title" : "Font",
+      "id" : "font",
+      "type" : "text",
+      "value" : "Arial"
+    },
+    {
+      "title" : "Font Size",
+      "id" : "fontsize",
+      "type" : "number",
+      "value" : "40"
+    }
+  ],
+  [
+    {
+      "title" : "cc.LabelBMFont",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.LabelBMFont"
+    },
+    {
+      "title" : "Tag",
+      "id" : "tag",
+      "type" : "text",
+      "value" : "label"
+    },
+    {
+      "title" : "Text",
+      "id" : "text",
+      "type" : "text",
+      "value" : "Hello World!"
+    },
+    {
+      "title" : "FNT file",
+      "id" : "fnt",
+      "type" : "file",
+      "value" : ""
+    }
+  ],
+  [
+    {
+      "title" : "cc.Sprite",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.Sprite"
+    },
+    {
+      "title" : "Tag",
+      "id" : "tag",
+      "type" : "text",
+      "value" : "sprite"
+    },
+    {
+      "title" : "Src",
+      "id" : "src",
+      "type" : "file",
+      "value" : ""
+    }
+  ],
+  [
+    {
+      "title" : "cc.Layer",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.Layer"
+    },
+    {
+      "title" : "Tag",
+      "id" : "tag",
+      "type" : "text",
+      "value" : "layer"
+    }
+  ],
+  [
+    {
+      "title" : "cc.LayerColor",
+      "id" : "name",
+      "type" : "label",
+      "value" : "cc.LayerColor"
+    },
+    {
+      "title" : "Tag",
+      "id" : "tag",
+      "type" : "text",
+      "value" : "layercolor"
+    }
+  ]
+]

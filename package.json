@@ -1,0 +1,12 @@
+{
+  "name": "creator-cctools",
+  "version": "0.0.1",
+  "description": "Action extension for Cocos Creator",
+  "author": "sincntx",
+  "main": "main.js",
+  "main-menu": {
+    "Cctools/Run": {
+      "message": "creator-cctools:launch-cctools"
+    }
+  }
+}
